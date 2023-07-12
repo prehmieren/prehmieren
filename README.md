@@ -1,4 +1,14 @@
-### Hi there 👋
+<h1>Hi there 👋</h1>
+I'm Watcharawit - I'm turning myself in a fullstack developer. I'm interested in development websites and creating apps. I work on random projects in my free time.
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=prehmieren&data=repositories,stars,commits&theme=magic_girl)](https://github.com/Jurredr/github-widgetbox)
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,git,github,bootstrap,vscode" />
+  </a>
+</p>
 
 <!--
 **prehmieren/prehmieren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
