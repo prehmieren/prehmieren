@@ -5,7 +5,7 @@ I'm Watcharawit - I'm turning myself in a fullstack developer. I'm interested in
 
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://www.github.com/prehmieren">
     <img src="https://skillicons.dev/icons?i=html,css,git,github,bootstrap,vscode" />
   </a>
 </p>
