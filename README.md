@@ -1,5 +1,5 @@
 <h1>Hi there 👋</h1>
-I'm Watcharawit - I'm turning myself in a fullstack developer. I'm interested in development websites and creating apps. I work on random projects in my free time.
+I'm Watcharawit - I'm turning myself in a fullstack developer. I'm interested in developing websites and creating apps. I work on random projects in my free time.
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=prehmieren&data=repositories,stars,commits&theme=magic_girl)](https://github.com/Jurredr/github-widgetbox)
 
