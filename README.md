@@ -6,7 +6,7 @@ I'm Watcharawit - I'm turning myself in a fullstack developer. I'm interested in
 
 <p align="center">
   <a href="https://www.github.com/prehmieren">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,mui,redux,javascript,tailwind,github,vscode">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,mui,tailwind,github,vscode">
   </a><br>
     <a href="https://www.codewars.com/users/prehmieren">
     <img src="https://www.codewars.com/users/prehmieren/badges/large">
